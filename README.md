@@ -24,8 +24,7 @@ And was also consumed the concepts of [Clean Code](https://blog.codacy.com/what-
 *  `play();` :
 *  `pause();` :
 
-## 🎨 The next step was to creat the class [RemoteController](https://github.com/Gabriel2893/RemoteController/blob/master/src/main/java/org/example/RemoteController.java), implement the interface, define the attributes and make 
-a constructor metlhod:
+## 🎨 The next step was to creat the class [RemoteController](https://github.com/Gabriel2893/RemoteController/blob/master/src/main/java/org/example/RemoteController.java), implement the interface, define the attributes and make a constructor metlhod:
       
       public RemoteController() {
           this.volume = 50;
