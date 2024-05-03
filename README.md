@@ -5,11 +5,52 @@
 
  ## 📝How the code was written
 
-the code was written using a principle of “object-oriented programming” : <i>The encapsulation </i> <br>
+the code was written using a principle of “Object-Oriented-Programming” (OOP) : <i>Encapsulation</i>  and <i>Abstraction</i> <br>
 And was also consumed the concepts of [Clean Code](https://blog.codacy.com/what-is-clean-code) just like:
 
 * Avoid Hard-Coded Numbers
 * Use Meaningful and Descriptive Names
+
+## 👨‍💻Firtly the abstract methods were created in the interface class called [Controller](https://github.com/Gabriel2893/RemoteController/blob/master/src/main/java/org/example/Controller.java):
+
+*  `turnOn();` : 
+*  `turnOff();` :
+*  `openMenu();` :
+*  `closeMenu();` :
+*  `volumeUp();` :
+*  `volumeDown();` :
+*  `mueteOn();` :
+*  `muteOff();` :
+*  `play();` :
+*  `pause();` :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public abstract void turnOff ();
+    public abstract void openMenu ();
+    public abstract void closeMenu ();
+    public abstract void volumeUp ();
+    public abstract void volumeDown ();
+    public abstract void muteOn ();
+    public abstract void muteOff();
+    public abstract void play ();
+    public abstract void pause ();
+
+
   
 
 
