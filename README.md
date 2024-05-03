@@ -24,6 +24,32 @@ And was also consumed the concepts of [Clean Code](https://blog.codacy.com/what-
 *  `play();` :
 *  `pause();` :
 
+## 🎨 The next step was to creat the class [RemoteController](https://github.com/Gabriel2893/RemoteController/blob/master/src/main/java/org/example/RemoteController.java), implement the interface, define the attributes and make 
+a constructor metlhod:
+      
+      public RemoteController() {
+          this.volume = 50;
+          this.on = false;
+          this.playing = false;
+
+when a new *RemoteController* is created it will begins by defaut with:
+* Volume 50
+* Power On
+* playing nothing (Off)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -40,15 +66,9 @@ And was also consumed the concepts of [Clean Code](https://blog.codacy.com/what-
 
 
 
-public abstract void turnOff ();
-    public abstract void openMenu ();
-    public abstract void closeMenu ();
-    public abstract void volumeUp ();
-    public abstract void volumeDown ();
-    public abstract void muteOn ();
-    public abstract void muteOff();
-    public abstract void play ();
-    public abstract void pause ();
+
+
+
 
 
   
