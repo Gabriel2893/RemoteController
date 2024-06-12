@@ -1,8 +1,9 @@
-# <img align="center" alt="RemoteController" height="50" width="50" src="https://github.com/Gabriel2893/RemoteController/assets/146888502/4320370c-94b8-4715-ac33-27a3ae86fe6c"> Aplicação de simulação de controlo remoto utilizando Java (JSE) 
-> [!NOTE]
-> Objetivo: Sistema de controle remoto simplificado
+# <img align="center" alt="RemoteController" height="50" width="50" src="https://github.com/Gabriel2893/RemoteController/assets/146888502/4320370c-94b8-4715-ac33-27a3ae86fe6c"> Aplicação de simulação de controle remoto utilizando Java (JSE)
 
 ### 🌐 English text bellow 
+
+> [!NOTE]
+> Objetivo: Sistema de controle remoto simplificado
 
 ## 📝How the code was written
 
