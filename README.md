@@ -1,6 +1,6 @@
 # <img align="center" alt="RemoteController" height="50" width="50" src="https://github.com/Gabriel2893/RemoteController/assets/146888502/4320370c-94b8-4715-ac33-27a3ae86fe6c"> Remote Controller simulation application using Java (JSE) 
 > [!NOTE]
-> Objective: Sistema de controlo remoto simplificado
+> Objetivo: Sistema de controle remoto simplificado
 
 ### 🌐 English text bellow 
 
